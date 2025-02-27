@@ -49,6 +49,7 @@ class Developer:
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
+| [ThreatScanner](https://github.com/LD-89/ThreatScanner) | Python, CLI | Web scraping + Threat scanning tool to compare malicious websites | ✔️ Production ready |
 | [CodeReviewPal](https://github.com/LD-89/CodeReviewPal) | Python | AI-driven Code Review assistant | 🚧 Active Development |
 | [Space Shooter](https://github.com/LD-89/space_shooter) | Python, PyGame|PyGame based 2D video-game | 🚧 Active Development |
 
