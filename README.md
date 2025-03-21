@@ -3,7 +3,7 @@
 
 ## 🛠️ Technical Arsenal
 
-| **Core Stack**       | **Fresh skills**       | **Emerging Skills**          |
+| **Core Stack**       | **Featured skills**       | **Emerging Skills**          |
 |----------------------|---------------------------------|------------------------------|
 | Python 3.12          | AWS Certified Cloud Practitioner | PyTorch/TensorFlow           |
 | Django               | Docker/Kubernetes              | Kafka          |
