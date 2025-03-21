@@ -3,12 +3,12 @@
 
 ## 🛠️ Technical Arsenal
 
-| **Core Stack**       | **Specialization Areas**       | **Emerging Skills**          |
+| **Core Stack**       | **Fresh skills**       | **Emerging Skills**          |
 |----------------------|---------------------------------|------------------------------|
 | Python 3.12          | AWS Certified Cloud Practitioner | PyTorch/TensorFlow           |
-| Django/Flask         | Docker/Kubernetes              | Kafka          |
-| SQL/NoSQL            | OWASP Security Practices       | Ai Automation         |
-| Git                  | Web API                        | Cloud development             |
+| Django               | Docker/Kubernetes              | Kafka          |
+| SQL/NoSQL            | OWASP Security Practices       | AI Automation         |
+| Git                  | Lua                       | Cloud development             |
 
 **Certifications**: 🏅 AWS CCP | 🏅 IBM Back-End Dev Cert | 🏅 Google IT Automation (In Progress)
 
@@ -51,7 +51,8 @@ class Developer:
 |---------|-------------|------------|--------|
 | [ThreatScanner](https://github.com/LD-89/ThreatScanner) | Python, CLI | Web scraping + Threat scanning tool to compare malicious websites | ✔️ Production ready |
 | [CodeReviewPal](https://github.com/LD-89/CodeReviewPal) | Python | AI-driven Code Review assistant | 🚧 Active Development |
-| [Space Shooter](https://github.com/LD-89/space_shooter) | Python, PyGame|PyGame based 2D video-game | 🚧 Active Development |
+| [Space Shooter](https://github.com/LD-89/space_shooter) | Python, PyGame | PyGame based 2D video-game | 🚧 Active Development |
+| [N-Warband](https://github.com/LD-89/N-Warband) | Lua | Account-wide character management Addon for WoW | 🚧 Active Development |
 
 ## 🤝 Collaboration Channels
 
